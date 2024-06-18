@@ -1,0 +1,16 @@
+/text-1.txt
+/text-2.txt
+
+/index.html
+/style.css
+
+#auto generated files
+#auto-gen-files/a.txt
+#auto-gen-files/b.txt
+#auto-gen-files/c.txt
+
+#ignora todos os arquivos dentro da pasta auto-gen-files
+#auto-gen-files/*
+
+#ignora todos os arquivos com extensão .txt
+auto-gen-files/*.txt
